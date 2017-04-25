@@ -1,6 +1,6 @@
 # My small COBOL Project
 
-Recently, I started learning COBOL programming just for fun.
+Recently (late March 2017, at the time of writing of this), I started learning COBOL programming just for fun.
 
 It started off quite simply. As it happened, it was a discovery that COBOL has a feature for designing screen interfaces (layouts) by using SCREEN section. The following idea soon came to my mind: It seems that it is relatively and easily to create text-based applications like classical STAR-TREK game. Text-based applications has still importance for devices like Raspberry Pi with limited CPU power and memory because of its lightweight and fast nature, as compared with GUI-based applications, in my opinion. Besides, OpenCOBOL can be installed in a single line on Raspberry Pi with Raspbian. Only professionals can use COBOL on mainframe computers even now (maybe) but OpenCOBOL on Raspberry Pi is *"for the rest of us"*.
 
