@@ -8,7 +8,7 @@
       *> default (since Raspbian jessie?).
       *>
       *> How to build this program:
-      *>   cobc -x pigpio-test.cob -lpthread -lrt -lpigpio
+      *>   cobc -x blinkLED.cob -lpthread -lrt -lpigpio
       *>
        identification division.
        program-id. blinkLED.
@@ -91,7 +91,7 @@
 
       *> -1 (PI_INIT_FAILED) is returned if initialisation failed.
       *> It is noted that the GPIO interface requires root
-      *> privilege for access. Remeber to 'sudo pigpio-test'
+      *> privilege for access. Remeber to 'sudo blinkLED'
       *> for running this program.
          display "pigpio initialisation failed."
        end-if 
