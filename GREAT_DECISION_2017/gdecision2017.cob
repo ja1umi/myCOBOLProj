@@ -27,7 +27,11 @@
       *> whether the computer's advise works for you. 
       *>
       *> AUTHOR: JA1UMI a.k.a. Kasumi YOSHINO (at Twitter @yKasumi)
-      *> DATE-FINISHED: July 20, 2017
+      *> DATE-WRITTEN: July 20, 2017
+      *> 
+      *> Date       Change Description
+      *> 0720-2017  Initial Release
+      *> 0721-2017  Fixed colorization issue
       *> 
        ENVIRONMENT DIVISION.
 
