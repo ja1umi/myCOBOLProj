@@ -42,7 +42,7 @@ You can copy the executable binary file (gdecision2017) anywhere you like.
 License
 -------
 
-The source code is released under the terms of the MIT License. See LICENCE.txt
+The source code is released under the terms of the MIT License. See LICENSE.txt
 
 
 Author
